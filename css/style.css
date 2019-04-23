@@ -1,0 +1,30 @@
+#content{
+	display:flex;
+	flex-direction:column;
+	border:1px solid gray;
+	align-items:center;
+}
+
+#hamburger{
+	margin-top:-4;
+}
+
+#name{
+	display:block;
+	position:relative;
+	text-align:center;
+}
+
+.upb{
+	margin-top:-10;
+}
+
+.dwb{
+	margin-top:-10;
+}
+ .button{ 
+	margin-bottom: 15px;	
+ } 
+body{
+	text-align:center;
+}
